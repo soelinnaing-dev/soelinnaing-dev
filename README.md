@@ -1,7 +1,5 @@
-### Hi there 👋
-
-### Hi there 👋
-# I'm .NET Application Developer😍
+## Hi there 👋
+## I'm .NET Application Developer😍
 
 Experienced in building desktop applications using .NET WinForms.😎
 
