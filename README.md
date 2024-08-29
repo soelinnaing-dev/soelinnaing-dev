@@ -19,7 +19,7 @@ Feel free to reach out to me for any inquiries or collaboration opportunities.
 ## Contact Information
 
 - **Name:** Soe Lin Naing
-- **Email:** soelinnaing.mm@gmail.com
+- **Email:** none
 - **Location:** Yangon, Myanmar
 
 ## Skills
